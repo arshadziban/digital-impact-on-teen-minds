@@ -1,0 +1,10 @@
+# Minimal requirements for analysis and plotting
+pandas>=2.3.0
+matplotlib>=3.8.0
+seaborn>=0.12.2
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipython
+
+# CLI / dataset helper
+kagglehub
