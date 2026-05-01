@@ -1,4 +1,4 @@
-# Digital Impact on Teen Minds — Notebook Analysis
+# Digital Impact on Teen Minds
 
 This repository contains an exploratory analysis of a student mental health dataset. The main work is in the Jupyter notebook `digital-impact-on-teen-minds.ipynb` which loads the dataset, cleans it, computes prevalence and treatment gaps, performs simple cross-tab analyses, and trains a RandomForest classifier to identify features associated with depression.
 
